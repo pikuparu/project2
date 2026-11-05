@@ -1,1 +1,1 @@
-// new feature is added it will merge later
+// new feature is added it will merge later.this is to study about merging
